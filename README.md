@@ -3,6 +3,15 @@
 My name is Joana, I am a software engineer from Lima, Peru 🇵🇪 living in Pisa, Italy. (Yes, I speak fluently 3 languages: Spanish, English and Italian)
 I enjoy solving problems and optimizing solutions. Forever an eternal student, always curious and always hungry learning something new. 
 
+### Technologies & Tools
+
+Collecting stickers
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=nodejs,javascript,ts,express,react,bootstrap,css,go,bash,aws,rust,actix,py,anaconda,fastapi,java,php,phpstorm,rabbitmq,kafka,git,github,githubactions,bitbucket,vscode,kubernetes,docker,kubernetes,linux,cpp,vim,eclipse,emacs,figma,html,mongodb,mysql,nestjs,nginx,npm,prometheus,redis,redux,regex,sass,stackoverflow,symfony,tailwind,unity,vue,webpack,vite" />
+ </a>
+</p>
+
 ### 🔭 I’m currently working on.. 
 improving systems in Node and/or Go at Tata Communications while also building APIs that enable communication between our microservices.  I am also developing interactive user interfaces in React to represent the campaigns' engagement of our customers through intuitive graphs and diagrams. 📈📊
 In my freetime I enjoy learning new skills and/or developing applications either on Node or Go or Rust or React or even Python.. always adding something new to the menu! 😊
