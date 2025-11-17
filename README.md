@@ -8,7 +8,7 @@ improving systems in Node and/or Go at Tata Communications while also building A
 In my freetime I enjoy learning new skills and/or developing applications either on Node or Go or Rust or React or even Python.. always adding something new to the menu! 😊
 
 ### 👯 I’m looking to collaborate on..
-Open source projects or any work opportunity related to my background on Node, Go, Python, Rust, React. I can work remotely either from Lima or Pisa with no sponsorship required, please feel free to contact me if the timezone fits for any collaboration.
+Open source projects or any work opportunity related to my background. I can work remotely either from Lima or Pisa with no sponsorship required, please feel free to contact me if the timezone fits for any collaboration.
 
 ### 😂 A fun fact about me..
 is that I'm a weightlifting athlete 🏋️ (Gotta work these biceps 💪) so pun incoming..  my life goes from PRs (Pull requests) to PRs (Personal Records). Also I am a big fan of Star Wars. 
