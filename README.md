@@ -3,12 +3,11 @@
 My name is Joana, I am a software engineer from Lima, Peru 🇵🇪 living in Pisa, Italy. (Yes, I speak fluently 3 languages: Spanish, English and Italian)
 I enjoy solving problems and optimizing solutions. Forever an eternal student, always curious and always hungry learning something new. 
 
-### Technologies & Tools
+### 🛠️ Technologies & Tools
 
-Collecting stickers
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=nodejs,javascript,ts,express,react,bootstrap,css,go,bash,aws,rust,actix,py,anaconda,fastapi,java,php,phpstorm,rabbitmq,kafka,git,github,githubactions,bitbucket,vscode,kubernetes,docker,kubernetes,linux,cpp,vim,eclipse,emacs,figma,html,mongodb,mysql,nestjs,nginx,npm,prometheus,redis,redux,regex,sass,stackoverflow,symfony,tailwind,unity,vue,webpack,vite" />
+     <img src="https://skillicons.dev/icons?i=nodejs,javascript,ts,express,react,bootstrap,css,go,bash,aws,rust,actix,py,anaconda,fastapi,java,php,phpstorm,rabbitmq,kafka,git,github,githubactions,bitbucket,vscode,kubernetes,docker,kubernetes,linux,cpp,vim,eclipse,emacs,figma,html,mongodb,mysql,nestjs,nginx,npm,prometheus,redis,redux,regex,sass,stackoverflow,symfony,tailwind,unity,vue,webpack,vite,emacs,latex" />
  </a>
 </p>
 
