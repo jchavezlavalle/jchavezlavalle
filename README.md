@@ -1,6 +1,6 @@
 ## Hello! Hola! Ciao! 👋
 
-My name is Joana, I am a software engineer from Lima, Peru 🇵🇪 living in Pisa, Italy. (Yes, I speak fluently 3 languages: Spanish, Italian and English)
+My name is Joana, I am a software engineer from Lima, Peru 🇵🇪 living in Pisa, Italy. (Yes, I speak fluently 3 languages: Spanish, English and Italian)
 I enjoy solving problems and optimizing solutions. Forever an eternal student, always curious and always hungry learning something new. 
 
 ### 🔭 I’m currently working on.. 
