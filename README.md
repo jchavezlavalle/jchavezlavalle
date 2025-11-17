@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello! Hola! Ciao! 👋
 
-<!--
-**jchavezlavalle/jchavezlavalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Joana, I am a software engineer from Lima, Peru 🇵🇪 living in Pisa, Italy. (Yes, I speak fluently 3 languages: Spanish, Italian and English)
+I enjoy solving problems and optimizing solutions. Forever an eternal student, always curious and always hungry learning something new. 
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on.. 
+improving systems in Node and/or Go at Tata Communications while also building APIs that enable communication between our microservices.  Also, I am developing interactive user interfaces in React to represent the campaigns' engagement of our customers through intuitive graphs and diagrams. 📈📊
+In my freetime I enjoy learning new skills and/or developing applications either on Node or Go or Rust or React or even Python.. always adding something new to the menu! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 I’m looking to collaborate on..
+Open source projects or any work opportunity related to my background on Node, Go, Python, Rust, React. Please don't hesitate to contact me to collaborate. 
+
+### 😂 A fun fact about me..
+is that I'm a weightlifting athlete 🏋️ (Gotta work these biceps 💪) so pun incoming..  my life goes from PRs (Pull requests) to PRs (Personal Records). Also I am a big fan of Star Wars. 
+
+### 📫 How to reach me..
+Find me on [Linkedin](https://www.linkedin.com/in/joanachavez/) feel free to drop me a message there.
+
