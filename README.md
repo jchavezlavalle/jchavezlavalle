@@ -1,6 +1,6 @@
 ## Hello! Hola! Ciao! 👋
 
-My name is Joana, I am a software engineer from Lima, Peru 🇵🇪 living in Pisa, Italy 🇮🇹.
+My name is Joana, I am a software engineer from Lima, Peru 🇵🇪.
 I enjoy solving problems and optimizing solutions. Forever a student, very curious and always hungry learning something new. 
 
 ### 🛠️ Technologies & Tools
@@ -16,7 +16,7 @@ improving systems in Node and/or Go at Tata Communications while also building A
 In my freetime I enjoy learning new skills and/or developing applications either on Node or Go or Rust or React or even Python.. always adding something new to the menu! 😊
 
 ### 👯 I’m looking to collaborate on..
-Open source projects or any work opportunity related to my background. I can work remotely either from Peru or Italy with no sponsorship required and I am always open to relocate if the role needs it as well. Please feel free to contact me for any collaboration.
+Open source projects or any work opportunity related to my background. I can work remotely from Peru and I am always open to relocate if the role needs it as well. Please feel free to contact me for any collaboration.
 
 ### 😂 A fun fact about me..
 is that I'm a weightlifting athlete 🏋️ (Gotta work these biceps 💪) so pun incoming..  my life goes from PRs (Pull requests) to PRs (Personal Records). Also, I am a big fan of Star Wars. 🌌⚔️
