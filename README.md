@@ -19,7 +19,8 @@ In my freetime I enjoy learning new skills and/or developing applications either
 Open source projects or any work opportunity related to my background. I can work remotely from Peru and I am always open to relocate if the role needs it as well. Please feel free to contact me for any collaboration.
 
 ### 😂 A fun fact about me..
-is that I'm a weightlifting athlete 🏋️ (Gotta work these biceps 💪) so pun incoming..  my life goes from PRs (Pull requests) to PRs (Personal Records). Also, I am a big fan of Star Wars. 🌌⚔️
+is that I'm a weightlifting athlete 🏋️ 
+Also, I am a big fan of Star Wars. 🌌⚔️
 
 ### 📫 How to reach me..
 Find me on [Linkedin](https://www.linkedin.com/in/joanachavez/) feel free to drop me a message there.
