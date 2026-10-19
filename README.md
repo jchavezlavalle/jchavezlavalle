@@ -10,7 +10,7 @@ Beyond engineering, I'm passionate about research, open source, and inspiring mo
 
 <p align="center">
   <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,bash,go,nodejs,ts,py,rust,git,github,githubactions,gitlab,prometheus,grafana,rabbitmq,kafka,redis" />
+        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,bash,go,nodejs,ts,py,rust,symfony,php,git,github,githubactions,gitlab,prometheus,grafana,rabbitmq,kafka,redis" />
   </a>
 </p>
 
