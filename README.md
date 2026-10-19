@@ -1,6 +1,6 @@
 ## Hello! Hola! Ciao! 👋
 
-I'm Joana, a Computer Engineer from Lima, Peru 🇵🇪, with 10+ years of experience building software and a passion for solving problems, designing reliable systems, and continuously learning.
+I'm Joana, a Computer Engineer from Lima, Peru 🇵🇪, with 10+ years of experience building software and a passion for solving problems, designing reliable systems, and continuously learning. I also love volunteering at events for Women In Technology organizations and Cloud/DevOps related.
 
 Currently, I'm a DevOps Engineer at Tranzact, working on platform engineering, infrastructure-as-code, and developer experience. My background spans backend development, distributed systems, microservices, and cloud-native technologies.
 
@@ -16,7 +16,7 @@ Beyond engineering, I'm passionate about research, open source, and inspiring mo
 
 ### 🔭 What I'm exploring
 
-I'm always curious about new technologies and enjoy building things with Go, Node.js, Rust, and Python, exploring cloud infrastructure, and finding better ways to build, deploy, and operate software.
+At the moment I am exploring projects built in Go & Rust. Learning and exploring about cloud infrastructure, and finding better ways to build, deploy, and operate software.
 
 ### 👯 Let's connect!
 
