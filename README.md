@@ -1,27 +1,25 @@
 ## Hello! Hola! Ciao! 👋
 
-My name is Joana, I am a software engineer from Lima, Peru 🇵🇪.
-I enjoy solving problems and optimizing solutions. Forever a student, very curious and always hungry learning something new. 
+I'm Joana, a Computer Engineer from Lima, Peru 🇵🇪, with 10+ years of experience building software and a passion for solving problems, designing reliable systems, and continuously learning.
+
+Currently, I'm a DevOps Engineer at Tranzact, working on platform engineering, infrastructure-as-code, and developer experience. My background spans backend development, distributed systems, microservices, and cloud-native technologies.
+
+Beyond engineering, I'm passionate about research, open source, and inspiring more women to become pioneers in tech. 🔬🚀
 
 ### 🛠️ Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=nodejs,javascript,ts,express,react,bootstrap,css,go,bash,aws,rust,actix,py,anaconda,fastapi,java,php,phpstorm,rabbitmq,kafka,git,github,githubactions,bitbucket,vscode,kubernetes,docker,kubernetes,linux,cpp,vim,eclipse,emacs,figma,html,mongodb,mysql,nestjs,nginx,npm,prometheus,redis,redux,regex,sass,stackoverflow,symfony,tailwind,unity,vue,webpack,vite,emacs,latex" />
- </a>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,ts,express,react,bootstrap,css,go,bash,aws,rust,actix,py,anaconda,fastapi,java,php,phpstorm,rabbitmq,kafka,git,github,githubactions,bitbucket,vscode,kubernetes,docker,linux,cpp,vim,eclipse,emacs,figma,html,mongodb,mysql,nestjs,nginx,npm,prometheus,redis,redux,regex,sass,stackoverflow,symfony,tailwind,unity,vue,webpack,vite,latex" />
+  </a>
 </p>
 
-### 🔭 I’m currently working on.. 
-improving systems in Node and/or Go at Tata Communications while also building APIs that enable communication between our microservices.  I am also developing interactive user interfaces in React to represent the campaigns' engagement of our customers through intuitive graphs and diagrams. 📈📊
-In my freetime I enjoy learning new skills and/or developing applications either on Node or Go or Rust or React or even Python.. always adding something new to the menu! 😊
+### 🔭 What I'm exploring
 
-### 👯 I’m looking to collaborate on..
-Open source projects or any work opportunity related to my background. I can work remotely from Peru and I am always open to relocate if the role needs it as well. Please feel free to contact me for any collaboration.
+I'm always curious about new technologies and enjoy building things with Go, Node.js, Rust, and Python, exploring cloud infrastructure, and finding better ways to build, deploy, and operate software.
 
-### 😂 A fun fact about me..
-is that I'm a weightlifting athlete 🏋️ 
-Also, I am a big fan of Star Wars. 🌌⚔️
+### 👯 Let's connect!
 
-### 📫 How to reach me..
-Find me on [Linkedin](https://www.linkedin.com/in/joanachavez/) feel free to drop me a message there.
+I'm happy to collaborate on open-source projects, exchange ideas, and connect with people who are passionate about technology, research, and Women in Tech.
+
 
