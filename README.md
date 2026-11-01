@@ -16,7 +16,7 @@ Beyond engineering, I'm passionate about research, open source, and inspiring mo
 
 ### 🔭 What I'm exploring
 
-At the moment I am exploring AWS products, I am working to become a AWS Community Builder in the next round. I am also studying to become a Kubestronaut, starting with KCNA and then moving forward with all the certifications. As of programming languages I love to write code using Go & Rust (sometimes Python too). I am learning and exploring about cloud infrastructure, and finding better ways to build, deploy, and operate software.
+At the moment I am exploring AWS products, I am working to become a AWS Community Builder in the next round. I am also studying to become a Kubestronaut, starting with KCNA and then moving forward with all the certifications. As of programming languages I love to write code using Go & Rust (sometimes Python too) and for several years I worked with other programming languages like NodeJS, Java and PHP (Can't complain, these languages provided me $$$ for food lol). I am learning and exploring about cloud infrastructure, and finding better ways to build, deploy, and operate software.
 
 ### 👯 Let's connect!
 
