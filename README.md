@@ -40,21 +40,23 @@ My B.Sc. research explored the use of 3D Virtual Reality for psychometric testin
 
 My technical experience spans:
 
-Systems & Research: PVS, PVSio-web, Model-Based Design, Formal Methods, Digital Twins
-Cloud & Infrastructure: AWS, Docker, Kubernetes, Terraform, Ansible, Linux
-Programming: Go, Rust, Python, TypeScript, Node.js, Java, PHP
-Architecture: Distributed Systems, Microservices, Observability, Infrastructure Automation
-🔭 What I'm Exploring
+- Systems & Research: PVS, PVSio-web, Model-Based Design, Formal Methods, Digital Twins
+- Cloud & Infrastructure: AWS, Docker, Kubernetes, Terraform, Ansible, Linux
+- Programming: Go, Rust, Python, TypeScript, Node.js, Java, PHP
+- Architecture: Distributed Systems, Microservices, Observability, Infrastructure Automation
+
+### 🔭 What I'm Exploring
 
 I'm continuously learning and exploring the intersection of software engineering, cloud-native technologies, and systems engineering.
 
 Some of my current learning goals include:
 
-☁️ Deepening my knowledge of AWS and cloud architecture, with the goal of becoming an AWS Community Builder.
-☸️ Pursuing the Kubestronaut journey, starting with KCNA.
-🦀 Exploring Go and Rust for systems programming and software development.
-🔬 Continuing to explore research topics around formal methods, safety-critical systems, and model-based engineering.
-👯 Community & Collaboration
+- ☁️ Deepening my knowledge of AWS and cloud architecture, with the goal of becoming an AWS Community Builder.
+- ☸️ Pursuing the Kubestronaut journey, starting with KCNA.
+- 🦀 Exploring Go and Rust for systems programming and software development.
+- 🔬 Continuing to explore research topics around formal methods, safety-critical systems, and model-based engineering.
+
+### 👯 Community & Collaboration
 
 I'm passionate about research, open source, and making technology more inclusive.
 
