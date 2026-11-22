@@ -28,7 +28,7 @@ My B.Sc. research explored the use of 3D Virtual Reality for psychometric testin
 ### 📚 Research Publications
 - 📄 M.Sc. Thesis — University of Pisa 🇮🇹: "Design and Development of a User Interface Prototype for an Electromedical Device" [link here](https://etd.adm.unipi.it/t/etd-01312020-121331/)
 - 📄 Conference Paper - University of Pisa 🇮🇹: "Personalized Gait-based Authentication Using UWB Wearable Devices" — Internet of Things: ACM Digital Library [link here](https://dl.acm.org/doi/10.1145/3320435.3320473)
-- 📄 B.Sc. Thesis — Pontifical Catholic University of Peru 🇵🇪: 3D Virtual Reality and Psychometric Testing
+- 📄 B.Sc. Thesis — Pontifical Catholic University of Peru 🇵🇪: "3D Virtual Reality and Psychometric Testing" [link here](https://tesis.pucp.edu.pe/items/f23b7db4-c1fc-4089-883a-3a0c53f1d4c0)
 
 ### 🛠️ Technologies & Tools
 
