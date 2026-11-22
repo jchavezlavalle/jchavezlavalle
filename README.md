@@ -25,11 +25,12 @@ I'm particularly interested in:
 
 My B.Sc. research explored the use of 3D Virtual Reality for psychometric testing.
 
-📚 Research Publications
-📄 M.Sc. Thesis — University of Pisa: Model-Based Design and Digital Twin research
-📄 Conference Paper — Internet of Things: ACM Digital Library
-📄 B.Sc. Thesis — PUCP: 3D Virtual Reality and Psychometric Testing
-🛠️ Technologies & Tools
+### 📚 Research Publications
+- 📄 M.Sc. Thesis — University of Pisa 🇮🇹: "Design and Development of a User Interface Prototype for an Electromedical Device" [link here](https://etd.adm.unipi.it/t/etd-01312020-121331/)
+- 📄 Conference Paper - University of Pisa 🇮🇹: "Personalized Gait-based Authentication Using UWB Wearable Devices" — Internet of Things: ACM Digital Library [link here](https://dl.acm.org/doi/10.1145/3320435.3320473)
+- 📄 B.Sc. Thesis — Pontifical Catholic University of Peru 🇵🇪: 3D Virtual Reality and Psychometric Testing
+
+### 🛠️ Technologies & Tools
 
 <p align="center">
 <a href="https://skillicons.dev">
