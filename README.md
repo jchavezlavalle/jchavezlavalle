@@ -1,25 +1,64 @@
-## Hello! Hola! Ciao! 👋
+### Hello! Hola! Ciao! 👋
 
-I'm Joana, a Computer Engineer from Lima, Peru 🇵🇪, with 10+ years of experience building software and a passion for solving problems, designing reliable systems, and continuously learning. I also love volunteering at events for Women In Technology organizations and Cloud/DevOps related.
+I'm Joana, a Computer Engineer from Lima, Peru 🇵🇪, with 10+ years of experience in software engineering and a strong interest in research, systems engineering, and emerging technologies.
 
-Currently, I'm a DevOps Engineer at Tranzact, working on platform engineering, infrastructure-as-code, and developer experience. My background spans backend development, distributed systems, microservices, and cloud-native technologies.
+My academic and professional interests lie at the intersection of Software Engineering, Cyber-Physical Systems (CPS), Formal Methods, and Model-Based Engineering.
 
-Beyond engineering, I'm passionate about research, open source, and inspiring more women to become pioneers in tech. 🔬🚀
+🎓 I hold an M.Sc. in Computer Engineering from the University of Pisa, Italy, and a B.Sc. in Computer Engineering from the Pontifical Catholic University of Peru (PUCP).
 
-### 🛠️ Technologies & Tools
+🚀 Currently, I'm a DevOps Engineer at Tranzact, working on Platform Engineering, Infrastructure as Code, and Developer Experience. My professional background includes backend development, distributed systems, microservices, and cloud-native technologies.
+
+### 🔬 Research & Academic Interests
+
+My M.Sc. research focused on Cyber-Physical Systems and Model-Based Design, specifically the development of a UI prototype for a safety-critical electromedical device, co-simulated as a Digital Twin.
+
+As part of my research, I worked with PVS and PVSio-web, tools for formal specification, verification, and interactive prototyping. This toolchain is also used in aerospace safety research, including work at NASA Langley Research Center.
+
+I'm particularly interested in:
+
+- Cyber-Physical Systems (CPS) and safety-critical systems
+- Model-Based Systems Engineering (MBSE) and Model-Based Design
+- Formal Methods, Formal Verification, and Model Checking
+- Digital Twins and Co-simulation
+- Embedded Systems and Human-Machine Interfaces
+- Software Architecture and Distributed Systems
+
+My B.Sc. research explored the use of 3D Virtual Reality for psychometric testing.
+
+📚 Research Publications
+📄 M.Sc. Thesis — University of Pisa: Model-Based Design and Digital Twin research
+📄 Conference Paper — Internet of Things: ACM Digital Library
+📄 B.Sc. Thesis — PUCP: 3D Virtual Reality and Psychometric Testing
+🛠️ Technologies & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,redhat,ansible,linux,ubuntu,debian,bash,go,rust,py,nodejs,ts,symfony,php,git,github,githubactions,gitlab,prometheus,grafana,rabbitmq,kafka,redis" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,redhat,ansible,linux,bash,go,rust,py,nodejs,ts,java,php,git,github,githubactions,gitlab,prometheus,grafana,rabbitmq,kafka,redis" />
+</a>
 </p>
 
-### 🔭 What I'm exploring
+My technical experience spans:
 
-At the moment I am exploring AWS products, I am working to become a AWS Community Builder in the next round. I am also studying to become a Kubestronaut, starting with KCNA and then moving forward with all the certifications. As of programming languages I love to write code using Go & Rust (sometimes Python too) and for several years I worked with other programming languages like NodeJS, Java and PHP (Can't complain, these languages provided me $$$ for food lol). At the moment, I am learning and exploring about cloud infrastructure, and finding better ways to build, deploy, and operate software.
+Systems & Research: PVS, PVSio-web, Model-Based Design, Formal Methods, Digital Twins
+Cloud & Infrastructure: AWS, Docker, Kubernetes, Terraform, Ansible, Linux
+Programming: Go, Rust, Python, TypeScript, Node.js, Java, PHP
+Architecture: Distributed Systems, Microservices, Observability, Infrastructure Automation
+🔭 What I'm Exploring
 
-### 👯 Let's connect!
+I'm continuously learning and exploring the intersection of software engineering, cloud-native technologies, and systems engineering.
 
-I'm happy to collaborate on open-source projects, exchange ideas, and connect with people who are passionate about technology, research, and Women in Tech.
+Some of my current learning goals include:
 
+☁️ Deepening my knowledge of AWS and cloud architecture, with the goal of becoming an AWS Community Builder.
+☸️ Pursuing the Kubestronaut journey, starting with KCNA.
+🦀 Exploring Go and Rust for systems programming and software development.
+🔬 Continuing to explore research topics around formal methods, safety-critical systems, and model-based engineering.
+👯 Community & Collaboration
 
+I'm passionate about research, open source, and making technology more inclusive.
+
+I volunteer and mentor in Women in Technology and Cloud-Native communities, supporting women interested in software engineering, open source, research, and technology careers.
+
+I'm always happy to connect with researchers, engineers, and open-source enthusiasts, exchange ideas, and collaborate on interesting projects.
+
+Let's explore, build, and make technology better together! 🚀
