@@ -14,13 +14,18 @@ My M.Sc. research focused on Cyber-Physical Systems, Model-Based Design, and saf
 
 One particularly interesting aspect of my research was working with [PVS](https://github.com/SRI-CSL/PVS) and [PVSio-web](https://www.pvsioweb.org/), tools for formal verification and interactive prototyping that are also used in aerospace safety research, including at [NASA Langley Research Center](https://shemesh.larc.nasa.gov/fm/pvs/PVSio/)🚀🧑‍🚀.
 
-As seen in their website:
-<img width="757" height="800" alt="image" src="https://github.com/user-attachments/assets/16786e55-7d49-452e-96a4-f4d673bff43e" />
 
-And obtained from my thesis work:
+As seen in their website:
+<p align="center">
+<img width="400" height="420" alt="image" src="https://github.com/user-attachments/assets/16786e55-7d49-452e-96a4-f4d673bff43e" />
+</p>
+
+Some pics of my thesis work:
+<p align="center">
 <img width="681" height="296" alt="image" src="https://github.com/user-attachments/assets/ebcf794b-3f90-4c7a-9a33-736d9a2a8b3b" />
 <img width="682" height="522" alt="image" src="https://github.com/user-attachments/assets/649ac9ad-605b-489e-83d0-0e4110cfe150" />
-Find full document to my MSc. thesis below.
+</p>
+Find full document to my MSc. thesis [here](https://etd.adm.unipi.it/t/etd-01312020-121331/).
 
 My B.Sc. research explored the use of 3D Virtual Reality for psychometric testing.
 
