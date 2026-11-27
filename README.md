@@ -4,7 +4,7 @@ I'm Joana, a Computer Engineer from Lima, Peru 🇵🇪, with 10+ years of exper
 
 My academic and professional interests lie at the intersection of Software Engineering, Cyber-Physical Systems (CPS), Formal Methods, and Model-Based Engineering.
 
-🎓 I hold an M.Sc. in Computer Engineering from the University of Pisa, Italy, and a B.Sc. in Computer Engineering from the Pontifical Catholic University of Peru (PUCP).
+🎓 I hold an M.Sc. in Computer Engineering from the University of Pisa, Italy 🇮🇹, and a B.Sc. in Computer Engineering from the Pontifical Catholic University of Peru 🇵🇪.
 
 🚀 Currently, I'm a DevOps Engineer at Tranzact, working on Platform Engineering, Infrastructure as Code, and Developer Experience. My professional background includes backend development, distributed systems, microservices, and cloud-native technologies.
 
