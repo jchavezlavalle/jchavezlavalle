@@ -27,8 +27,6 @@ Some pics of my thesis work:
 </p>
 Find full document to my MSc. thesis: https://etd.adm.unipi.it/t/etd-01312020-121331/
 
-My B.Sc. research explored the use of 3D Virtual Reality for psychometric testing.
-
 ### 📚 Research Publications
 - 📄 M.Sc. Thesis — University of Pisa 🇮🇹: "Design and Development of a User Interface Prototype for an Electromedical Device" [link here](https://etd.adm.unipi.it/t/etd-01312020-121331/)
 - 📄 Conference Paper - University of Pisa 🇮🇹: "Personalized Gait-based Authentication Using UWB Wearable Devices" — Internet of Things: ACM Digital Library [link here](https://dl.acm.org/doi/10.1145/3320435.3320473)
