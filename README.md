@@ -10,9 +10,9 @@ My academic and professional interests lie at the intersection of Software Engin
 
 ### 🔬 Research & Academic Interests
 
-My M.Sc. research focused on Cyber-Physical Systems and Model-Based Design, specifically the development of a UI prototype for a safety-critical electromedical device, co-simulated as a Digital Twin.
+My M.Sc. research focused on Cyber-Physical Systems, Model-Based Design, and safety-critical systems. I developed a UI prototype for an electromedical device, integrated into a Digital Twin through co-simulation.
 
-As part of my research, I worked with PVS and PVSio-web, tools for formal specification, verification, and interactive prototyping. This toolchain is also used in aerospace safety research, including work at NASA Langley Research Center.
+One particularly interesting aspect of my research was working with [PVS](https://github.com/SRI-CSL/PVS) and [PVSio-web](https://www.pvsioweb.org/), tools for formal verification and interactive prototyping that are also used in aerospace safety research, including at [NASA Langley Research Center](https://shemesh.larc.nasa.gov/fm/pvs/PVSio/)🚀🧑‍🚀.
 
 I'm particularly interested in:
 
