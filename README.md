@@ -14,10 +14,20 @@ My M.Sc. research focused on Cyber-Physical Systems, Model-Based Design, and saf
 
 One particularly interesting aspect of my research was working with [PVS](https://github.com/SRI-CSL/PVS) and [PVSio-web](https://www.pvsioweb.org/), tools for formal verification and interactive prototyping that are also used in aerospace safety research, including at [NASA Langley Research Center](https://shemesh.larc.nasa.gov/fm/pvs/PVSio/)🚀🧑‍🚀.
 
+As seen in their website:
+<img width="757" height="800" alt="image" src="https://github.com/user-attachments/assets/16786e55-7d49-452e-96a4-f4d673bff43e" />
+
+And obtained from my thesis work:
 <img width="681" height="296" alt="image" src="https://github.com/user-attachments/assets/ebcf794b-3f90-4c7a-9a33-736d9a2a8b3b" />
 <img width="682" height="522" alt="image" src="https://github.com/user-attachments/assets/649ac9ad-605b-489e-83d0-0e4110cfe150" />
+Find full document to my MSc. thesis below.
 
+My B.Sc. research explored the use of 3D Virtual Reality for psychometric testing.
 
+### 📚 Research Publications
+- 📄 M.Sc. Thesis — University of Pisa 🇮🇹: "Design and Development of a User Interface Prototype for an Electromedical Device" [link here](https://etd.adm.unipi.it/t/etd-01312020-121331/)
+- 📄 Conference Paper - University of Pisa 🇮🇹: "Personalized Gait-based Authentication Using UWB Wearable Devices" — Internet of Things: ACM Digital Library [link here](https://dl.acm.org/doi/10.1145/3320435.3320473)
+- 📄 B.Sc. Thesis — Pontifical Catholic University of Peru 🇵🇪: "3D Virtual Reality and Psychometric Testing" [link here](https://tesis.pucp.edu.pe/items/f23b7db4-c1fc-4089-883a-3a0c53f1d4c0)
 
 I'm particularly interested in:
 
@@ -27,13 +37,6 @@ I'm particularly interested in:
 - Digital Twins and Co-simulation
 - Embedded Systems and Human-Machine Interfaces
 - Software Architecture and Distributed Systems
-
-My B.Sc. research explored the use of 3D Virtual Reality for psychometric testing.
-
-### 📚 Research Publications
-- 📄 M.Sc. Thesis — University of Pisa 🇮🇹: "Design and Development of a User Interface Prototype for an Electromedical Device" [link here](https://etd.adm.unipi.it/t/etd-01312020-121331/)
-- 📄 Conference Paper - University of Pisa 🇮🇹: "Personalized Gait-based Authentication Using UWB Wearable Devices" — Internet of Things: ACM Digital Library [link here](https://dl.acm.org/doi/10.1145/3320435.3320473)
-- 📄 B.Sc. Thesis — Pontifical Catholic University of Peru 🇵🇪: "3D Virtual Reality and Psychometric Testing" [link here](https://tesis.pucp.edu.pe/items/f23b7db4-c1fc-4089-883a-3a0c53f1d4c0)
 
 ### 🛠️ Technologies & Tools
 
