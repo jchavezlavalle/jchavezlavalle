@@ -14,6 +14,11 @@ My M.Sc. research focused on Cyber-Physical Systems, Model-Based Design, and saf
 
 One particularly interesting aspect of my research was working with [PVS](https://github.com/SRI-CSL/PVS) and [PVSio-web](https://www.pvsioweb.org/), tools for formal verification and interactive prototyping that are also used in aerospace safety research, including at [NASA Langley Research Center](https://shemesh.larc.nasa.gov/fm/pvs/PVSio/)🚀🧑‍🚀.
 
+<img width="681" height="296" alt="image" src="https://github.com/user-attachments/assets/ebcf794b-3f90-4c7a-9a33-736d9a2a8b3b" />
+<img width="682" height="522" alt="image" src="https://github.com/user-attachments/assets/649ac9ad-605b-489e-83d0-0e4110cfe150" />
+
+
+
 I'm particularly interested in:
 
 - Cyber-Physical Systems (CPS) and safety-critical systems
