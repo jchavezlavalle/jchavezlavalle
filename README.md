@@ -25,7 +25,7 @@ Some pics of my thesis work:
 <img width="681" height="296" alt="image" src="https://github.com/user-attachments/assets/ebcf794b-3f90-4c7a-9a33-736d9a2a8b3b" />
 <img width="682" height="522" alt="image" src="https://github.com/user-attachments/assets/649ac9ad-605b-489e-83d0-0e4110cfe150" />
 </p>
-Find full document to my MSc. thesis [here](https://etd.adm.unipi.it/t/etd-01312020-121331/).
+Find full document to my MSc. thesis: https://etd.adm.unipi.it/t/etd-01312020-121331/
 
 My B.Sc. research explored the use of 3D Virtual Reality for psychometric testing.
 
